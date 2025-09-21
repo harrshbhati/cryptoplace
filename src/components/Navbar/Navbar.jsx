@@ -50,9 +50,7 @@ const Navbar = () => {
             <button className="sign-in-btn">Sign In</button>
           </SignInButton>
           <Link to="/signup">
-            <button className="sign-up-btn">
-              Sign Up <img src={arrow_icon} alt="arrow" />
-            </button>
+            
           </Link>
         </SignedOut>
 
