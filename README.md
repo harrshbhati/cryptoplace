@@ -25,12 +25,10 @@ https://cryptoplace.vercel.app/
 
 ## 🖼️ Screenshots
 
-> Add your screenshots inside `./screenshots/` in your repo, then replace the links below.
-
 ### Homepage  
 ![Homepage](./screenshots/homepage.png)
 
-### Crypto List  
+### Login 
 ![Crypto List](./screenshots/cryptolist.png)
 
 ### Coin Details  
