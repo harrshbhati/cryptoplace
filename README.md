@@ -26,7 +26,7 @@ https://cryptoplace.vercel.app/
 ## 🖼️ Screenshots
 
 ### Homepage  
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/home.png)
 
 ### Login 
 ![Crypto List](./screenshots/cryptolist.png)
