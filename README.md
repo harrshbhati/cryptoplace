@@ -29,10 +29,10 @@ https://cryptoplace.vercel.app/
 ![Homepage](./screenshots/home.png)
 
 ### Login 
-![Crypto List](./screenshots/cryptolist.png)
+![Crypto List](./screenshots/login.png)
 
 ### Coin Details  
-![Coin Details](./screenshots/coindetail.png)
+![Coin Details](./screenshots/coin.png)
 
 ---
 
