@@ -1,12 +1,66 @@
-# React + Vite
+# CryptoPlace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern cryptocurrency dashboard built using React and Vite. Fast, responsive, and structured for real-world API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Badges
 
-## Expanding the ESLint configuration
+![Vite](https://img.shields.io/badge/Vite-Development-blue)
+![React](https://img.shields.io/badge/React-JSX-61dafb)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔗 Live Demo
+
+Coming soon  
+<!-- Replace this with your deployed link
+Example:
+https://cryptoplace.vercel.app/
+-->
+
+---
+
+## 🖼️ Screenshots
+
+### Homepage  
+![Homepage](./screenshots/homepage.png)
+
+### Login 
+![Crypto List](./screenshots/cryptolist.png)
+
+### Coin Details  
+![Coin Details](./screenshots/coindetail.png)
+
+---
+
+## 🚀 Features
+
+- React + Vite for ultra-fast development.
+- Modular component structure.
+- Fully responsive layout.
+- Easy integration with crypto APIs (CoinGecko, Binance etc.)
+- Clean codebase with ESLint configuration.
+- Scalable folder architecture.
+
+---
+
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Node.js (>=14)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/harrshbhati/cryptoplace
+cd cryptoplace
+npm install
+
+
