@@ -32,7 +32,7 @@ https://cryptoplace.vercel.app/
 ![Crypto List](./screenshots/login.png)
 
 ### Coin Details  
-![Coin Details](./screenshots/coin.png)
+![Coin Details](./screenshots/chart.png)
 
 ---
 
